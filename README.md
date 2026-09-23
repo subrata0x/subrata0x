@@ -19,14 +19,27 @@
 
 ## 🧑‍💻 About Me
 
+<table align="center">
+<tr>
+<td width="38%" valign="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif" />
+
+</td>
+<td width="62%" valign="center">
+
 I'm a **Computer Science & Technology** student focused on full-stack web development and problem-solving.
 
-- 🔭 Building full-stack applications with **React** + **Django**
-- 🧠 Strengthening problem-solving skills with **DSA in C**
-- 🎨 Designing UI/UX prototypes in **Figma** before implementation
-- 🧪 Testing and documenting APIs with **Postman**
-- 📚 Currently learning advanced React patterns and Django REST APIs
-- 📫 Reach me at **email@email.domain**
+- 🔭 &nbsp;Building full-stack apps with **React** + **Django**
+- 🧠 &nbsp;Sharpening problem-solving with **DSA in C**
+- 🎨 &nbsp;Prototyping UI/UX in **Figma** before writing code
+- 🧪 &nbsp;Testing & documenting APIs with **Postman**
+- 📚 &nbsp;Learning advanced React patterns & Django REST APIs
+- 📫 &nbsp;Reach me at **email@email.domain**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
